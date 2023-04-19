@@ -1,0 +1,2 @@
+# bq_udf_for_nlp_and_ir
+自然言語処理と情報検索のためのBigQuery用のUDF集
